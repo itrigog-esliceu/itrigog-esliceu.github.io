@@ -1,6 +1,5 @@
 # Repository-1
 <Strong>Apunts</Strong>-->[introduccio](01_introduccio.md)
-
 ## Apartat 2
 La informacio del <em> Apartat 2 </em> es menys important que la del <em>Apartat 1.</em>
 
@@ -14,7 +13,7 @@ Una llista
 <li>2
 <li>3
 <li>4
-</ol> 
+</ol>
 
 ##### Apartat 5
 Altra llista
@@ -23,7 +22,7 @@ Altra llista
 <li>B
 <li>C
 <li>D
-</ul> 
+</ul>
 
 ###### Apartat 6
 >cita 1
