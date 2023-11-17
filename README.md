@@ -15,13 +15,6 @@ Una llista
 <li>3
 <li>4
 </ol> 
-k
-
-
-
-
-
-
 
 ##### Apartat 5
 Altra llista
