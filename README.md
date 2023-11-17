@@ -1,5 +1,5 @@
 # Repository-1
-<Strong>Apunts</Strong>-->https://github.com/itrigog-esliceu/Repository-1/tree/main/sistemes/processos
+<Strong>Apunts</Strong>-->[introduccio](introduccio.md)
 
 ## Apartat 2
 La informacio del <em> Apartat 2 </em> es menys important que la del <em>Apartat 1.</em>
