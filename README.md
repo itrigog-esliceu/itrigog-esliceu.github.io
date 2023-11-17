@@ -14,8 +14,7 @@ Una llista
 <li>2
 <li>3
 <li>4
-</ol>
-
+</ol> 
 
 ##### Apartat 5
 Altra llista
@@ -24,7 +23,7 @@ Altra llista
 <li>B
 <li>C
 <li>D
-</ul>
+</ul> 
 
 ###### Apartat 6
 >cita 1
