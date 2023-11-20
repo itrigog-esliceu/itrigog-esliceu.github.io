@@ -1,5 +1,5 @@
 # Repository-1
-<Strong>Apunts</Strong>-->[introduccio](01_introduccio.md)
+<Strong>Apunts</Strong>-->[introduccio](sistemes/processos/01_introduccio.md)
 ## Apartat 2
 La informacio del <em> Apartat 2 </em> es menys important que la del <em>Apartat 1.</em>
 
