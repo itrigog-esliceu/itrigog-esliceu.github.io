@@ -4,7 +4,7 @@ Aquests processos es poden classificar en diverses <strong>categories clau</stro
 
 <Strong>Categories d'un process</Strong>-->[https://github.com/itrigog-esliceu/Repository-1/blob/main/sistemes/processos/02_categories_dun_process.md](sistemes/processos/02_categories_dun_process.md)
 
-<Strong>Estats d'un process</Strong>-->https://github.com/itrigog-esliceu/Repository-1/blob/main/sistemes/processos/03_estats_dun_process.md
+<Strong>Estats d'un process</Strong>-->[https://github.com/itrigog-esliceu/Repository-1/blob/main/sistemes/processos/03_estats_dun_process.md](sistemes/processos/03_estats_dun_process.md)
 
 <Strong>Tornar a sistemes</Strong>-->https://github.com/itrigog-esliceu/Repository-1/tree/main/sistemes
 
